@@ -7,6 +7,10 @@ https://github.com/MadihaSehar/Mentornness-internship-tasks/assets/147022919/a4b
 #DISEASE PREDICTION PROJECT VIDEO-1
 
 
+https://github.com/MadihaSehar/Mentornness-internship-tasks/assets/147022919/de59bb62-fdd9-4662-9645-1496a2aa3a64
+
+
+
 
 
 #MARKET PRICE PREDICTION -PROJECT VIDEO-2
